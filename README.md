@@ -1,4 +1,4 @@
-### Hi there 👋
+### 하고싶은게 많은 개발자😄
 
 <!--
 **MUNSY-eggrice/MUNSY-eggrice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
