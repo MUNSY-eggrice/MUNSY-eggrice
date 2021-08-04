@@ -8,5 +8,6 @@
 
 <br>
  <h2> :arrow_forward:<strong>Stack</strong>:arrow_backward:</h2>
+  <img src="https://img.shields.io/badge/C-#a8b9cc?style=flat-square&logo=C&logoColor=white"/>
 </div>
 
