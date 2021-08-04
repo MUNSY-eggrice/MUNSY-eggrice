@@ -23,8 +23,6 @@
   <img src="https://img.shields.io/badge/Ubuntu-e95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
 </div>
 
-![Munsy's git stat](https://github-readme-stats.vercel.app/api?username=MUNSY-eggrice&show_icons=true&theme=default)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUNSY-eggrice&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Munsy's git stat](https://github-readme-stats.vercel.app/api?username=MUNSY-eggrice&show_icons=true&theme=default) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUNSY-eggrice&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
