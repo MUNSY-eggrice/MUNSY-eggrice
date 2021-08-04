@@ -9,7 +9,7 @@
 <br>
  <h2> :arrow_forward:<strong>Stack</strong>:arrow_backward:</h2>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C#-239120?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C#-239120?style=flat-square&logo=c%23&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 </div>
 
