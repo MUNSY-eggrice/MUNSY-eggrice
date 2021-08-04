@@ -7,6 +7,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUNSY-eggrice&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
-  :arrow_forward:<strong>Stack</strong>:arrow_backward:
+ <h2> :arrow_forward:<strong>Stack</strong>:arrow_backward:</h2>
 </div>
 
