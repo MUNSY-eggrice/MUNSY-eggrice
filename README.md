@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=M%20lab&fontSize=90)
 
 <div align="center">
-  <strong>:blush:흥미 위주로 개발하는 개발페이지입니다</strong>
+  <h4><strong>:blush:흥미 위주로 개발하는 개발페이지입니다</strong>
 <br>
   <h2> :arrow_forward:<strong>Stack</strong>:arrow_backward:</h2>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
