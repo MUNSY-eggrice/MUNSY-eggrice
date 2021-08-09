@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <h4><strong>:blush:흥미 위주로 개발하는 개발페이지입니다</strong></h4>
+  <h3><strong>:blush:흥미 위주로 개발하는 개발페이지입니다</strong></h3>
   
 <br>
   <h2> :arrow_forward:<strong>Stack</strong>:arrow_backward:</h2>
