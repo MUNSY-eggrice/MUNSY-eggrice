@@ -1,9 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=GOOD%20DAY&fontSize=90)
 
 <div align="center">
-  
-  <h3><strong>:blush:우물안에서 나오고 싶은 개구리</strong></h3>
-  
 <br>
   <h2> :arrow_forward:<strong>Stack</strong>:arrow_backward:</h2>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
