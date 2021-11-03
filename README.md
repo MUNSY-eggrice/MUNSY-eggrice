@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <h3><strong>:blush:흥미 위주로 개발하는 개발페이지입니다</strong></h3>
+  <h3><strong>:blush:우물안에서 나오고 싶은 개구리</strong></h3>
   
 <br>
   <h2> :arrow_forward:<strong>Stack</strong>:arrow_backward:</h2>
