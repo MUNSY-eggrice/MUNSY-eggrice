@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=GOOD%20DAY&fontSize=90)
 
 <div align="center">
-   
+   <p>화이팅<p>
 <br>
   <h2> :arrow_forward:<strong>Stack</strong>:arrow_backward:</h2>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
