@@ -2,7 +2,7 @@
 
 <div align="center">
    
-   ## 화이팅  
+   ## 💻화이팅👍
 <br>
   <h2> :arrow_forward:<strong>Stack</strong>:arrow_backward:</h2>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
